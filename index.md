@@ -9,4 +9,9 @@ Dominant, fuehruengsstark, ueberlegt, intelligent
 * Telegen
 * Eitel 
 
+Kirk Zitat:
+> Beam me up, Scotty
+
+
+
 
