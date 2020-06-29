@@ -1,6 +1,12 @@
 # Captain Kirk
 
-Commander der SS Enterprise
-1. Offizier Mr. Spock
-2. Offizier Lieutenant  Zulu
+Dominant, fuehruengsstark, ueberlegt, intelligent
+ 
+## Eigenschaften
+
+* Dominant
+* Wild
+* Telegen
+* Eitel 
+
 
